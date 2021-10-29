@@ -1,0 +1,14 @@
+.header {
+    color: rgb(0, 4, 255);
+    background-color: rgb(255, 0, 0);
+}
+
+li {
+    font-weight: bold;
+    text-align: left;
+}
+
+#pic {
+    width: 200px;
+    height: auto;
+}
